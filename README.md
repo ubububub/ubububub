@@ -1,4 +1,5 @@
-# Hi 👋, I'm Utku Bilgin
+# Utku Bilgin
+Hello, I am Utku. I am a motivated engineer who is eager to bridge the gap between technical and business fields. I have a solid foundation in engineering, software development, and data analysis, complemented by business knowledge. My main interests are data analytics, software development, product management and agentic AI systems. My GitHub page showcases some of my contributions and projects. I am currently building my own mobile apps.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
